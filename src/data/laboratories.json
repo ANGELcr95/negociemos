@@ -1,0 +1,1692 @@
+[
+    {
+        "ID_CRICLA1": "2S",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ESSENTIA2"
+    },
+    {
+        "ID_CRICLA1": "A.G",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AMERICAN GENERIC"
+    },
+    {
+        "ID_CRICLA1": "AB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ABBOTT"
+    },
+    {
+        "ID_CRICLA1": "ACTI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ACTIFARMA"
+    },
+    {
+        "ID_CRICLA1": "ADVA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ADVANCE"
+    },
+    {
+        "ID_CRICLA1": "AL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALFA TRADING SAS"
+    },
+    {
+        "ID_CRICLA1": "ALC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALCOHOL VARIOS"
+    },
+    {
+        "ID_CRICLA1": "ALDQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALDOQUIN"
+    },
+    {
+        "ID_CRICLA1": "ALL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALL NATURAL"
+    },
+    {
+        "ID_CRICLA1": "AM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALIMFAR"
+    },
+    {
+        "ID_CRICLA1": "AMER",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AMERICA"
+    },
+    {
+        "ID_CRICLA1": "ANGL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ANGLOFARMA"
+    },
+    {
+        "ID_CRICLA1": "ANTI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ANTIBIL"
+    },
+    {
+        "ID_CRICLA1": "APOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "APOLOFARMA"
+    },
+    {
+        "ID_CRICLA1": "AQUI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AQUILEA"
+    },
+    {
+        "ID_CRICLA1": "ASEP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ASEPTIC"
+    },
+    {
+        "ID_CRICLA1": "AU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AUROBINDO"
+    },
+    {
+        "ID_CRICLA1": "AULE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AULEN"
+    },
+    {
+        "ID_CRICLA1": "AV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AVALON"
+    },
+    {
+        "ID_CRICLA1": "AVAN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "AVANPHARMA"
+    },
+    {
+        "ID_CRICLA1": "AZ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "A.Z. PHARMA LTDA"
+    },
+    {
+        "ID_CRICLA1": "B1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BLOFARMA"
+    },
+    {
+        "ID_CRICLA1": "BAYE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BAYER"
+    },
+    {
+        "ID_CRICLA1": "BCN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BCN MEDICAL"
+    },
+    {
+        "ID_CRICLA1": "BD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BARDOT"
+    },
+    {
+        "ID_CRICLA1": "BE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BHETEL"
+    },
+    {
+        "ID_CRICLA1": "BES2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BEST MARCA"
+    },
+    {
+        "ID_CRICLA1": "BEST",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS BEST"
+    },
+    {
+        "ID_CRICLA1": "BG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BAGO"
+    },
+    {
+        "ID_CRICLA1": "BGEN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOGEN EPS"
+    },
+    {
+        "ID_CRICLA1": "BH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BOEHRINGER INGELHIM"
+    },
+    {
+        "ID_CRICLA1": "BI1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIO ESTERIL"
+    },
+    {
+        "ID_CRICLA1": "BIO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOGEN"
+    },
+    {
+        "ID_CRICLA1": "BIO2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOQUIFAR EPS"
+    },
+    {
+        "ID_CRICLA1": "BIOC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOCHEM FARMACEUTICA DE COLOMBIA"
+    },
+    {
+        "ID_CRICLA1": "BIOG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOGENERICOS"
+    },
+    {
+        "ID_CRICLA1": "BIOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOLIFE"
+    },
+    {
+        "ID_CRICLA1": "BIOP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOPHARMA DE COLOMBIA SA"
+    },
+    {
+        "ID_CRICLA1": "BIOQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOQUIFAR"
+    },
+    {
+        "ID_CRICLA1": "BIOT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOTOSCANA"
+    },
+    {
+        "ID_CRICLA1": "BL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BELLEZA EXPRESS"
+    },
+    {
+        "ID_CRICLA1": "BLAS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BLASKOT"
+    },
+    {
+        "ID_CRICLA1": "BOEH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BOEHRING"
+    },
+    {
+        "ID_CRICLA1": "BQM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOQUIMICO PHARMA S.A"
+    },
+    {
+        "ID_CRICLA1": "BR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BRADYSTER"
+    },
+    {
+        "ID_CRICLA1": "BRAD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BRADYSTER"
+    },
+    {
+        "ID_CRICLA1": "BREM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BREMYMG LTDA"
+    },
+    {
+        "ID_CRICLA1": "BSN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BSN"
+    },
+    {
+        "ID_CRICLA1": "BTAN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BIOTANICA"
+    },
+    {
+        "ID_CRICLA1": "BUSS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAB.BUSSIE S.A."
+    },
+    {
+        "ID_CRICLA1": "BY",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "BAYER"
+    },
+    {
+        "ID_CRICLA1": "CALC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CALCIFAR"
+    },
+    {
+        "ID_CRICLA1": "CALF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CALIFORNIA"
+    },
+    {
+        "ID_CRICLA1": "CARB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CARIBE"
+    },
+    {
+        "ID_CRICLA1": "CARL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CARLON"
+    },
+    {
+        "ID_CRICLA1": "CB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CIBER"
+    },
+    {
+        "ID_CRICLA1": "CERO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS CERO S A"
+    },
+    {
+        "ID_CRICLA1": "CH1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LINEA CHC BUSCAPINA"
+    },
+    {
+        "ID_CRICLA1": "CHAL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CHALVER"
+    },
+    {
+        "ID_CRICLA1": "CHC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LINEA CHC"
+    },
+    {
+        "ID_CRICLA1": "CHEM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CHEMIGEN FARMACEUTICA S.A"
+    },
+    {
+        "ID_CRICLA1": "CHOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLPHARMA"
+    },
+    {
+        "ID_CRICLA1": "CIP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CIPLA"
+    },
+    {
+        "ID_CRICLA1": "CLAR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CLARIS LIFESCIENCE COLOMBIA LTDA"
+    },
+    {
+        "ID_CRICLA1": "CLFR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CONSUMO LAFRANCOL"
+    },
+    {
+        "ID_CRICLA1": "CM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COSMENATURAL"
+    },
+    {
+        "ID_CRICLA1": "CN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CONAPRON"
+    },
+    {
+        "ID_CRICLA1": "CO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COACHING Y BUSINESS LAB SAS"
+    },
+    {
+        "ID_CRICLA1": "CO1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COACHING GUANTES"
+    },
+    {
+        "ID_CRICLA1": "COLG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLGENERICOS"
+    },
+    {
+        "ID_CRICLA1": "COLM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLMED"
+    },
+    {
+        "ID_CRICLA1": "COLO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLOMPACK"
+    },
+    {
+        "ID_CRICLA1": "COLP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLPAR"
+    },
+    {
+        "ID_CRICLA1": "COME",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COMERLAT"
+    },
+    {
+        "ID_CRICLA1": "CONT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CONTEXPORT"
+    },
+    {
+        "ID_CRICLA1": "COP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COLPHARMA MAQUILA"
+    },
+    {
+        "ID_CRICLA1": "COSM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COMPANY COSMETIC"
+    },
+    {
+        "ID_CRICLA1": "CP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CORPAUL"
+    },
+    {
+        "ID_CRICLA1": "CR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CARSON"
+    },
+    {
+        "ID_CRICLA1": "CS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CONSUMER PHARMACEUTICAL"
+    },
+    {
+        "ID_CRICLA1": "CT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CLOSTER"
+    },
+    {
+        "ID_CRICLA1": "CTU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CONDON TULIP"
+    },
+    {
+        "ID_CRICLA1": "CYTE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "CYTEC"
+    },
+    {
+        "ID_CRICLA1": "DB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DIAGNOSTICOS BIOMEDICOS"
+    },
+    {
+        "ID_CRICLA1": "DELT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DELTA"
+    },
+    {
+        "ID_CRICLA1": "DESA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DESAPHARMA"
+    },
+    {
+        "ID_CRICLA1": "DH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DH PHARMA"
+    },
+    {
+        "ID_CRICLA1": "DISF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DISFARMA DISTRIBUCIONES FARMACEUTICAS"
+    },
+    {
+        "ID_CRICLA1": "DP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DISPOCOL"
+    },
+    {
+        "ID_CRICLA1": "DP1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DISPOCOL GUANTES"
+    },
+    {
+        "ID_CRICLA1": "DR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DROQUIMICOS"
+    },
+    {
+        "ID_CRICLA1": "DROG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DROGAM LTDA"
+    },
+    {
+        "ID_CRICLA1": "DT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "DATA"
+    },
+    {
+        "ID_CRICLA1": "ECA2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ECAR EPS"
+    },
+    {
+        "ID_CRICLA1": "ECAR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS ECAR LTDA"
+    },
+    {
+        "ID_CRICLA1": "ELI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ELIPTICA"
+    },
+    {
+        "ID_CRICLA1": "ENV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ENVAPLASTICOS LTDA"
+    },
+    {
+        "ID_CRICLA1": "ESCA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ESCANDINAVIA"
+    },
+    {
+        "ID_CRICLA1": "ESKO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ESKOPHARM"
+    },
+    {
+        "ID_CRICLA1": "ESTE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ESTELAR"
+    },
+    {
+        "ID_CRICLA1": "ETYC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ETYC"
+    },
+    {
+        "ID_CRICLA1": "EU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EUROPHARMA"
+    },
+    {
+        "ID_CRICLA1": "EURO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EUROPACK"
+    },
+    {
+        "ID_CRICLA1": "EVED",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EVEDISA"
+    },
+    {
+        "ID_CRICLA1": "EXP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EXPOFARMA"
+    },
+    {
+        "ID_CRICLA1": "EXP2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EXPOFARMA EPS"
+    },
+    {
+        "ID_CRICLA1": "EXPO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS EXPOFARMA LTDA"
+    },
+    {
+        "ID_CRICLA1": "F1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARPAG"
+    },
+    {
+        "ID_CRICLA1": "FABR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FABRIFARMA"
+    },
+    {
+        "ID_CRICLA1": "FACO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMA DE COLOMBIA"
+    },
+    {
+        "ID_CRICLA1": "FAR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMACER"
+    },
+    {
+        "ID_CRICLA1": "FAR2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMASER COMERCIAL"
+    },
+    {
+        "ID_CRICLA1": "FARM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMALIDER"
+    },
+    {
+        "ID_CRICLA1": "FARN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMANAL"
+    },
+    {
+        "ID_CRICLA1": "FARV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARVICAL"
+    },
+    {
+        "ID_CRICLA1": "FCOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMACOL"
+    },
+    {
+        "ID_CRICLA1": "FCOP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDICBRAND"
+    },
+    {
+        "ID_CRICLA1": "FDSA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMADISA"
+    },
+    {
+        "ID_CRICLA1": "FG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FOGENSA"
+    },
+    {
+        "ID_CRICLA1": "FINL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS FINLAY DE COLOMBIA"
+    },
+    {
+        "ID_CRICLA1": "FL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ESSENCES DE LA FLEUR"
+    },
+    {
+        "ID_CRICLA1": "FMIO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARMIONI SCALPI"
+    },
+    {
+        "ID_CRICLA1": "FR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NATURAL FRESHLY"
+    },
+    {
+        "ID_CRICLA1": "FRES",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FRESENIUS"
+    },
+    {
+        "ID_CRICLA1": "FUN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FUNAT"
+    },
+    {
+        "ID_CRICLA1": "FV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "FARVICAL"
+    },
+    {
+        "ID_CRICLA1": "G2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GENOMA LAB"
+    },
+    {
+        "ID_CRICLA1": "GARD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAB. GARDEN HOUSE"
+    },
+    {
+        "ID_CRICLA1": "GARM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GARMIS"
+    },
+    {
+        "ID_CRICLA1": "GC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GC FARMA"
+    },
+    {
+        "ID_CRICLA1": "GENT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GENTEC"
+    },
+    {
+        "ID_CRICLA1": "GERC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GERCO"
+    },
+    {
+        "ID_CRICLA1": "GF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GENFAR"
+    },
+    {
+        "ID_CRICLA1": "GF2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GENFAR EPS"
+    },
+    {
+        "ID_CRICLA1": "GINP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GINOPHAR"
+    },
+    {
+        "ID_CRICLA1": "GLAX",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GLAXO"
+    },
+    {
+        "ID_CRICLA1": "GT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GOTLAND"
+    },
+    {
+        "ID_CRICLA1": "GU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ALFA GUANTES"
+    },
+    {
+        "ID_CRICLA1": "GYNO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "GYNOPHARM"
+    },
+    {
+        "ID_CRICLA1": "H.C",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "H.C INJECTO"
+    },
+    {
+        "ID_CRICLA1": "H8",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HYC"
+    },
+    {
+        "ID_CRICLA1": "HA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HEALTHY AMERICA"
+    },
+    {
+        "ID_CRICLA1": "HC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HC MEDICAL"
+    },
+    {
+        "ID_CRICLA1": "HG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HEALTH GESTION"
+    },
+    {
+        "ID_CRICLA1": "HIGE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HIGEA DE COLOMBIA"
+    },
+    {
+        "ID_CRICLA1": "HISP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HISPANALAB"
+    },
+    {
+        "ID_CRICLA1": "HK",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HENKEL COLOMBIA SAS"
+    },
+    {
+        "ID_CRICLA1": "HM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HUMAX EPS"
+    },
+    {
+        "ID_CRICLA1": "HUMA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HUMAX"
+    },
+    {
+        "ID_CRICLA1": "HUMN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "HUMAN HEALTH PHARMA LTDA"
+    },
+    {
+        "ID_CRICLA1": "IC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INMCO"
+    },
+    {
+        "ID_CRICLA1": "ICOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ICOLPHARM"
+    },
+    {
+        "ID_CRICLA1": "IF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INDERFARMA"
+    },
+    {
+        "ID_CRICLA1": "IFSA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IFSA"
+    },
+    {
+        "ID_CRICLA1": "IMEX",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IMEX"
+    },
+    {
+        "ID_CRICLA1": "IMP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IMPROPHARMA"
+    },
+    {
+        "ID_CRICLA1": "IMPO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IMPOFAR"
+    },
+    {
+        "ID_CRICLA1": "IMPR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS IMPROFARME LTDA"
+    },
+    {
+        "ID_CRICLA1": "IN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INMC"
+    },
+    {
+        "ID_CRICLA1": "INA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INTITUTO NEUROLOGICO DE ANTIOQUIA"
+    },
+    {
+        "ID_CRICLA1": "INCO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INCOBRA"
+    },
+    {
+        "ID_CRICLA1": "INJE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INJEC LTDA"
+    },
+    {
+        "ID_CRICLA1": "INMU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INMUPHARMA LTDA"
+    },
+    {
+        "ID_CRICLA1": "INNO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "INNOFAR"
+    },
+    {
+        "ID_CRICLA1": "IPEF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IPEF"
+    },
+    {
+        "ID_CRICLA1": "IV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "IVE LABORATORIOS"
+    },
+    {
+        "ID_CRICLA1": "JGB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "JGB"
+    },
+    {
+        "ID_CRICLA1": "JGB1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "JGB ALCOHOL"
+    },
+    {
+        "ID_CRICLA1": "JGBA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "JGB ALCOHOL"
+    },
+    {
+        "ID_CRICLA1": "JOHN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "JOHNSON & JOHNSON"
+    },
+    {
+        "ID_CRICLA1": "JQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS JQ"
+    },
+    {
+        "ID_CRICLA1": "JUCH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "JUCHER"
+    },
+    {
+        "ID_CRICLA1": "KIMB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "KIMBERLY"
+    },
+    {
+        "ID_CRICLA1": "KN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "KNOVEL"
+    },
+    {
+        "ID_CRICLA1": "KV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "KEVIPHARMA"
+    },
+    {
+        "ID_CRICLA1": "LAKO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAKOR"
+    },
+    {
+        "ID_CRICLA1": "LAND",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LANDER"
+    },
+    {
+        "ID_CRICLA1": "LB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LEBRIUT"
+    },
+    {
+        "ID_CRICLA1": "LB2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABINCO EPS"
+    },
+    {
+        "ID_CRICLA1": "LBCO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABINCO"
+    },
+    {
+        "ID_CRICLA1": "LEFI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LETIF LTDA"
+    },
+    {
+        "ID_CRICLA1": "LEGR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LEGRAND"
+    },
+    {
+        "ID_CRICLA1": "LEMA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LEMAG"
+    },
+    {
+        "ID_CRICLA1": "LEPE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LEPETIT"
+    },
+    {
+        "ID_CRICLA1": "LF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LIFE CARE SOLUTIONS"
+    },
+    {
+        "ID_CRICLA1": "LFR2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EPS LFRANCOL"
+    },
+    {
+        "ID_CRICLA1": "LFRA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LA FRANCOL"
+    },
+    {
+        "ID_CRICLA1": "LG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LG PHARMA"
+    },
+    {
+        "ID_CRICLA1": "LICO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LICOL"
+    },
+    {
+        "ID_CRICLA1": "LILI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS LILI DE MEXICO"
+    },
+    {
+        "ID_CRICLA1": "LIST",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LISTER"
+    },
+    {
+        "ID_CRICLA1": "LN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LINEA NEGOCIEMOS"
+    },
+    {
+        "ID_CRICLA1": "LOE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LOE"
+    },
+    {
+        "ID_CRICLA1": "LPR2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAPROF EPS"
+    },
+    {
+        "ID_CRICLA1": "LPRF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAPROF"
+    },
+    {
+        "ID_CRICLA1": "LSTE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LA SANTE"
+    },
+    {
+        "ID_CRICLA1": "LUTE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LUTECIA"
+    },
+    {
+        "ID_CRICLA1": "LVT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LAVANTE PARIS"
+    },
+    {
+        "ID_CRICLA1": "M1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MACROLABS"
+    },
+    {
+        "ID_CRICLA1": "ME",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS MED"
+    },
+    {
+        "ID_CRICLA1": "MED",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDICALES"
+    },
+    {
+        "ID_CRICLA1": "MEDC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDICALE"
+    },
+    {
+        "ID_CRICLA1": "MEDF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDIFARMA"
+    },
+    {
+        "ID_CRICLA1": "MEDI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDIGEN"
+    },
+    {
+        "ID_CRICLA1": "MEMP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEMPHIS"
+    },
+    {
+        "ID_CRICLA1": "MERE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEREY"
+    },
+    {
+        "ID_CRICLA1": "MERK",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MERK"
+    },
+    {
+        "ID_CRICLA1": "METL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "METLEN FARMA"
+    },
+    {
+        "ID_CRICLA1": "MGE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS MGE LTDA C.I"
+    },
+    {
+        "ID_CRICLA1": "MJ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDPHARMA"
+    },
+    {
+        "ID_CRICLA1": "MK",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TECNOQUIMICAS"
+    },
+    {
+        "ID_CRICLA1": "MK1",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MK ALCOHOL"
+    },
+    {
+        "ID_CRICLA1": "MK2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MK EPS"
+    },
+    {
+        "ID_CRICLA1": "MKG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MK GENERICOS"
+    },
+    {
+        "ID_CRICLA1": "MN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "EL MANA"
+    },
+    {
+        "ID_CRICLA1": "MP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MPROMEDICAL"
+    },
+    {
+        "ID_CRICLA1": "MV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "REPRESENTACIONES MV"
+    },
+    {
+        "ID_CRICLA1": "MX",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "MEDIKAX"
+    },
+    {
+        "ID_CRICLA1": "NATU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NATURAL MEDI LTDA"
+    },
+    {
+        "ID_CRICLA1": "NC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NECO"
+    },
+    {
+        "ID_CRICLA1": "NEO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS NEO"
+    },
+    {
+        "ID_CRICLA1": "NH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NATURAL HERBEAT"
+    },
+    {
+        "ID_CRICLA1": "NICO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VITANICOLE"
+    },
+    {
+        "ID_CRICLA1": "NIPR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NIPRO"
+    },
+    {
+        "ID_CRICLA1": "NOV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NOVAMED"
+    },
+    {
+        "ID_CRICLA1": "NOVA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NOVARTI"
+    },
+    {
+        "ID_CRICLA1": "NOVE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NOVEX"
+    },
+    {
+        "ID_CRICLA1": "NQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NATURQUIM"
+    },
+    {
+        "ID_CRICLA1": "NT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NT LABS"
+    },
+    {
+        "ID_CRICLA1": "NV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NEVOX FARMA"
+    },
+    {
+        "ID_CRICLA1": "NW",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "NEW HEALTH"
+    },
+    {
+        "ID_CRICLA1": "OP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OPTION SA"
+    },
+    {
+        "ID_CRICLA1": "OPAL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OPALAC"
+    },
+    {
+        "ID_CRICLA1": "OPHA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OPHARM"
+    },
+    {
+        "ID_CRICLA1": "OQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ODONTO QUIRURGICAS"
+    },
+    {
+        "ID_CRICLA1": "OS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OSSA"
+    },
+    {
+        "ID_CRICLA1": "OSSA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIO OSSA"
+    },
+    {
+        "ID_CRICLA1": "OX",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OXIFARMA"
+    },
+    {
+        "ID_CRICLA1": "OXYP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "OXYPHARMA"
+    },
+    {
+        "ID_CRICLA1": "P3",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROCAPS FARMA"
+    },
+    {
+        "ID_CRICLA1": "P5",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PHARMA LASER"
+    },
+    {
+        "ID_CRICLA1": "P9",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PLASTI ONCE"
+    },
+    {
+        "ID_CRICLA1": "PB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROBANELL"
+    },
+    {
+        "ID_CRICLA1": "PC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "COASPHARMA"
+    },
+    {
+        "ID_CRICLA1": "PC3",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PENTACOOP NUEVA LINEA"
+    },
+    {
+        "ID_CRICLA1": "PC4",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PC EPS"
+    },
+    {
+        "ID_CRICLA1": "PD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PANDA CLEANER"
+    },
+    {
+        "ID_CRICLA1": "PF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROFAMILIA EPS"
+    },
+    {
+        "ID_CRICLA1": "PFMA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROFMA"
+    },
+    {
+        "ID_CRICLA1": "PH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PCG HOME & BEAUTY SAS"
+    },
+    {
+        "ID_CRICLA1": "PHAR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PHARMASION"
+    },
+    {
+        "ID_CRICLA1": "PI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PRODUCCION IVE"
+    },
+    {
+        "ID_CRICLA1": "PIL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PILI"
+    },
+    {
+        "ID_CRICLA1": "PIS2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PISA ELECTROLIT"
+    },
+    {
+        "ID_CRICLA1": "PISA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PISA"
+    },
+    {
+        "ID_CRICLA1": "PK",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PEQUITAS"
+    },
+    {
+        "ID_CRICLA1": "PL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PRODUCCION LG PHARMA"
+    },
+    {
+        "ID_CRICLA1": "PLL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PILI"
+    },
+    {
+        "ID_CRICLA1": "PM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROFAR"
+    },
+    {
+        "ID_CRICLA1": "POOL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "POOL"
+    },
+    {
+        "ID_CRICLA1": "PQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROQUIDENT"
+    },
+    {
+        "ID_CRICLA1": "PRCL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROCLIN"
+    },
+    {
+        "ID_CRICLA1": "PRO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROTEC SAS"
+    },
+    {
+        "ID_CRICLA1": "PROC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROCAPS"
+    },
+    {
+        "ID_CRICLA1": "PROF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PROFAMILIA"
+    },
+    {
+        "ID_CRICLA1": "PT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PRONAT"
+    },
+    {
+        "ID_CRICLA1": "PW",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PHARMARCY AW"
+    },
+    {
+        "ID_CRICLA1": "PZ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "PFIZER"
+    },
+    {
+        "ID_CRICLA1": "QC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIMICOS COLOMBIA"
+    },
+    {
+        "ID_CRICLA1": "QD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIDECA"
+    },
+    {
+        "ID_CRICLA1": "QF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIRON PHARMA"
+    },
+    {
+        "ID_CRICLA1": "QINT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QINTAX"
+    },
+    {
+        "ID_CRICLA1": "QL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUALA"
+    },
+    {
+        "ID_CRICLA1": "QP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIMICA PATRIC"
+    },
+    {
+        "ID_CRICLA1": "QUIB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIBBI"
+    },
+    {
+        "ID_CRICLA1": "QUIF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIFARMA"
+    },
+    {
+        "ID_CRICLA1": "QUIP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "QUIPROFARMA"
+    },
+    {
+        "ID_CRICLA1": "RACO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RACOL"
+    },
+    {
+        "ID_CRICLA1": "RB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS RB"
+    },
+    {
+        "ID_CRICLA1": "RECP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RECIPE"
+    },
+    {
+        "ID_CRICLA1": "REMO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS REMO"
+    },
+    {
+        "ID_CRICLA1": "RIDD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RIDDIPHARMA"
+    },
+    {
+        "ID_CRICLA1": "RM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ROTEX MEDICA"
+    },
+    {
+        "ID_CRICLA1": "ROCI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ROCIPAR"
+    },
+    {
+        "ID_CRICLA1": "ROPS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ROPSON"
+    },
+    {
+        "ID_CRICLA1": "ROSI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ROSIPAR"
+    },
+    {
+        "ID_CRICLA1": "ROYA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "ROYAL NATURALS"
+    },
+    {
+        "ID_CRICLA1": "RPFA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "REPRESENTACIONES FARMACEUTICAS"
+    },
+    {
+        "ID_CRICLA1": "RU",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RUECAM"
+    },
+    {
+        "ID_CRICLA1": "RYAN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RYAN"
+    },
+    {
+        "ID_CRICLA1": "RYMC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "RYMCO"
+    },
+    {
+        "ID_CRICLA1": "SALO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SALOMON"
+    },
+    {
+        "ID_CRICLA1": "SANB",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SANBANI"
+    },
+    {
+        "ID_CRICLA1": "SCAN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SCANDINAVIA"
+    },
+    {
+        "ID_CRICLA1": "SD",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "STANDAR"
+    },
+    {
+        "ID_CRICLA1": "SEMP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SEMPERMED"
+    },
+    {
+        "ID_CRICLA1": "SER",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SERES"
+    },
+    {
+        "ID_CRICLA1": "SERP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SERPHARMA"
+    },
+    {
+        "ID_CRICLA1": "SEVE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SEVENPHARMA"
+    },
+    {
+        "ID_CRICLA1": "SIC",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SIC FARMA"
+    },
+    {
+        "ID_CRICLA1": "SIEG",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SIEGFRED"
+    },
+    {
+        "ID_CRICLA1": "SIGM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SIGMA FARMA"
+    },
+    {
+        "ID_CRICLA1": "SIN2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SINTESYS COMERCIAL"
+    },
+    {
+        "ID_CRICLA1": "SINT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SINTHESIS"
+    },
+    {
+        "ID_CRICLA1": "SK",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SKY"
+    },
+    {
+        "ID_CRICLA1": "SKAN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SKANDINAVIA"
+    },
+    {
+        "ID_CRICLA1": "SN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SION PHARMACEUTICA"
+    },
+    {
+        "ID_CRICLA1": "SNFI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SANOFI"
+    },
+    {
+        "ID_CRICLA1": "SO",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SOPHIA"
+    },
+    {
+        "ID_CRICLA1": "SOFT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SOFTGELS"
+    },
+    {
+        "ID_CRICLA1": "SORE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SOREL"
+    },
+    {
+        "ID_CRICLA1": "SS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SEVEN"
+    },
+    {
+        "ID_CRICLA1": "ST",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SURTIAROMAS"
+    },
+    {
+        "ID_CRICLA1": "STEL",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS FARMACEUTICOS STELAR"
+    },
+    {
+        "ID_CRICLA1": "SUPE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SUPERTEX"
+    },
+    {
+        "ID_CRICLA1": "SUR",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SURTHIPHARMA"
+    },
+    {
+        "ID_CRICLA1": "SV",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SYV PHARMA"
+    },
+    {
+        "ID_CRICLA1": "SWIS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "SWISS HEBAL S.A"
+    },
+    {
+        "ID_CRICLA1": "TECN",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TECNOFARMA"
+    },
+    {
+        "ID_CRICLA1": "TI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TINO"
+    },
+    {
+        "ID_CRICLA1": "TRID",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TRIDEX"
+    },
+    {
+        "ID_CRICLA1": "TRIF",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TRIFARMA"
+    },
+    {
+        "ID_CRICLA1": "TYA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "TELEFERIAS Y ACTIVIDADES"
+    },
+    {
+        "ID_CRICLA1": "U.F",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "UNION FARMACEUTICA"
+    },
+    {
+        "ID_CRICLA1": "UNIQ",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "UNIQUE"
+    },
+    {
+        "ID_CRICLA1": "VARI",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VARIOS"
+    },
+    {
+        "ID_CRICLA1": "VH",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VON HALLER"
+    },
+    {
+        "ID_CRICLA1": "VIDA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VIDAFAK"
+    },
+    {
+        "ID_CRICLA1": "VIM",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "LABORATORIOS VIM"
+    },
+    {
+        "ID_CRICLA1": "VIT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VITAFACK"
+    },
+    {
+        "ID_CRICLA1": "VITA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VITALIS"
+    },
+    {
+        "ID_CRICLA1": "VP",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VERAXIPHARMA"
+    },
+    {
+        "ID_CRICLA1": "VS",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VESALIUS"
+    },
+    {
+        "ID_CRICLA1": "VYTA",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "VYTAFER"
+    },
+    {
+        "ID_CRICLA1": "WASE",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "WASSER"
+    },
+    {
+        "ID_CRICLA1": "WIN2",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "WINTROP EPS"
+    },
+    {
+        "ID_CRICLA1": "WINT",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "WINTROP"
+    },
+    {
+        "ID_CRICLA1": "XER",
+        "ID_CATEGO": "4",
+        "CMCRICLA_DESCRIPCION": "XERION"
+    }
+]
