@@ -63,7 +63,7 @@ const DescriptionProduct = () => {
             </div>
             <div className="InfoBuyProduct">
                 <div className="ImgBuyProduct">
-                    {item.ID_CODBAR? <img src={`img/${item.ID_CODBAR}.jpg`} alt="img"></img>:<img src={`404.png`} alt="404"></img>}
+                    {item.ID_CODBAR? <img src={`img/${item.ID_CODBAR}.jpg`} alt="img"></img>:<img src={"img/036600813719.jpg"} alt="404"></img>}
                 </div>
                 <div className="PicreAndDescription">
                     <p>{item.length != 0? item.CMLINEAS_DESCRIPCION: itemLocal.CMLINEAS_DESCRIPCION}</p>

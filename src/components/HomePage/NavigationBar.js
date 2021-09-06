@@ -3,10 +3,6 @@ import React from 'react';
 import { NavLink } from "react-router-dom";
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import {useSelector} from 'react-redux'
-import { useState } from "react";
-import { useEffect } from "react";
-
-
 
 const NavigationBar = () => {
 

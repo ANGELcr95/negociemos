@@ -48,7 +48,7 @@ const Banner = () => {
     return (
         <div className="Banner">
             {listBannerSlice}
-            <ul className="pageNumbers">
+            <ul className="pageNumbersBanner">
                 {renderPageNumbers}
             </ul>
         </div>

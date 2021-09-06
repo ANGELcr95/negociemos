@@ -11,6 +11,7 @@ import BuyProduct from './components/HomePage/Banner/BuyProduct';
 // import AuthProvider from './Auth/AuthProvider';
 import {Provider} from 'react-redux'
 import generateStore from './redux/store';
+import Laboratorie from './components/Laboratorie';
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <HomePage exact path="/"/>
             <BuyProduct exact path="/compraproducto"/>
             <Products exact path="/productos"/>
+            <Laboratorie exact path="/laboratorio"/>
             </Switch>
         </Provider>
       </Router>

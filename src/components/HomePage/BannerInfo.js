@@ -23,7 +23,7 @@ const BannerInfo = ({item}) => {
                 </Link>
             </div>
             <div className="ImgBanner">
-                {item.ID_CODBAR? <img src={`img/${item.ID_CODBAR}.jpg`} alt="img" natural></img>:<img src={`404.png`} alt="404"></img>}
+                {item.ID_CODBAR? <img src={`img/${item.ID_CODBAR}.jpg`} alt="img" natural></img>:<img src={"img/036600813719.jpg"} alt="404"></img>}
             </div>
         </div>
     );

@@ -85,7 +85,7 @@ const ContenedorPrincipal = styled.div`
 `;
 
 const ContenedorSlideshow = styled.div`
-	width:300%;
+	width:200%;
 	display: flex;
 	// flex-wrap: nowrap;
 `;

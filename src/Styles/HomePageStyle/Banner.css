@@ -31,7 +31,7 @@
 /* es la pginacion */
 
 
- .pageNumbers{
+ .pageNumbersBanner{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,13 +41,13 @@
     margin-bottom: 2rem;
 }
 
-.pageNumbers button.active{
+.pageNumbersBanner button.active{
     background-color: rgb(139, 139, 139);
     color: black;
     
 }
 
-.pageNumbers button {
+.pageNumbersBanner button {
     width: 10%;
     background-color:transparent;
     font-size: 1.5rem;
@@ -60,13 +60,13 @@
 
 } 
 
-.pageNumbers button:hover{
+.pageNumbersBanner button:hover{
     background-color: rgb(221, 221, 221);
     color: black;
 }
 
-.pageNumbers button:focus {
+.pageNumbersBanner button:focus {
     outline: none;
-}
+} 
 
 

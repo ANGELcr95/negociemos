@@ -5,11 +5,13 @@ import {composeWithDevTools} from 'redux-devtools-extension'
 import negociemosReducer from './negociemosDucks'
 import produtBuyReducer from './itemBuyDucks'
 import countProdutReducer from './itemsCarDucks'
+import laboratorieReducer from './laboratorieDucks'
 
 const rootReducer = combineReducers({
     dataProducts: negociemosReducer,
     buyProduct: produtBuyReducer,
-    countBuyProduct: countProdutReducer
+    countBuyProduct: countProdutReducer,
+    dataLaboratorie: laboratorieReducer
     
 })
 
