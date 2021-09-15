@@ -66,7 +66,7 @@ const Autocomplete = ({ laboratorie }) => {
       </div>
       <div className="RenderProduct">
         <Link 
-          to="/compraproducto" style={{textDecoration:"none"}}
+          to={`/compraproducto/${laboratorie.ID_ITEM}`} style={{textDecoration:"none"}}
           onClick={()=>{dispatch(getProductBuyAction(renderfilter[0]))}}
           >
           {renderfilter.length > 0? 

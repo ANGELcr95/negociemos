@@ -10,14 +10,14 @@ const Services = () => {
     return (
         <div className="Services">
             <div  className="ServicesImg">
-                <div className="ServicesImg1">
+                {/* <div className="ServicesImg1">
                     <LocalShippingIcon style={{color: '#0096d2', fontSize: 40}}/>
                     <h6>Envio Gratis</h6>
-                </div>
-                <div className="ServicesImg2">
+                </div> */}
+                {/* <div className="ServicesImg2">
                     <PhoneIcon style={{color: '#0096d2', fontSize: 40}}/>
                     <h6>Soporte 24/7</h6>
-                </div>
+                </div> */}
                 <div className="ServicesImg3">
                     <PaymentIcon style={{color: '#0096d2', fontSize: 40}}/>
                     <h6>Pagos seguros</h6>

@@ -1,23 +1,23 @@
 .DescriptionProduct{
     background-color: white;
+    color: black;
 }
 .Description{
-    color: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
-    padding-left: 20%;
-    margin-bottom: 0;
+    margin: 2rem auto 1rem auto;
 }
 
 .Description h3{
+    padding-left: 20%;
     width: 100%;
-    margin: 0  ;
     text-align: left;
     
 }
 
 .Description p{
-    margin: 0;
+    padding-left: 20%;
+    width: 100%;
     font-size: 0.9rem;
     text-align: left;
 }

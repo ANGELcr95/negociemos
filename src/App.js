@@ -12,6 +12,7 @@ import BuyProduct from './components/HomePage/Banner/BuyProduct';
 import {Provider} from 'react-redux'
 import generateStore from './redux/store';
 import Laboratorie from './components/Laboratorie';
+import PurchaseSummary from './components/PurcharseSummary';
 
 
 function App() {
@@ -24,9 +25,10 @@ function App() {
         <Provider store={store}>
           <Switch>
             <HomePage exact path="/"/>
-            <BuyProduct exact path="/compraproducto"/>
+            <BuyProduct exact path="/compraproducto/:id"/>
             <Products exact path="/productos"/>
-            <Laboratorie exact path="/laboratorio"/>
+            <Laboratorie exact path="/laboratorio/:id"/>
+            <PurchaseSummary exact path="/compras"/>
             </Switch>
         </Provider>
       </Router>

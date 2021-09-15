@@ -8,6 +8,7 @@ import img from "./bg-main.jpg"
 
 function BuyProduct() {
 
+
     return (
         <div className="BuyProduct" >
             <div className="BannerImg" style={{backgroundImage:`url(${img})`}}>

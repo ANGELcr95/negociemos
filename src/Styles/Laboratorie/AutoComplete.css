@@ -26,18 +26,20 @@
 
 .RenderProduct{
     margin-top: 2rem;
+    border-radius:1rem ;
+
 }
 
 .Results ul {
     list-style: none;
-    background-color: rgb(248, 248, 248);
 }
 
-.Results ul li {
+.Results ul div {
     font-size: 0.8rem;
     cursor: pointer;
+    background-color: rgb(238, 238, 238);
+    padding: 0.2rem;
 }
 
 .Results hr{
-    border-top: 1px solid rgba(255, 255, 255, 0.753);
 }

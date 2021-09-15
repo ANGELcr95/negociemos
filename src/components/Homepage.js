@@ -17,7 +17,7 @@ const HomePage = () => {
             <div className="BannerImg" style={{backgroundImage:`url(${img})`}}>
                 <Information/>
                 <NavigationBar/>
-                <RedFixed/>
+                {/* <RedFixed/> */}
                 <Banner/>
             </div>
             {/* <Telefares/> */}

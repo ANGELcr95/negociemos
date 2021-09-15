@@ -13,7 +13,7 @@
     width: 60%;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .ServicesImg1{
@@ -23,6 +23,7 @@
     padding: 1.8rem;
     cursor: pointer;
     border-radius: 0.3rem;
+
 }
 
 .ServicesImg2{
@@ -41,6 +42,7 @@
     padding: 1.8rem;
     cursor: pointer;
     border-radius: 0.3rem;
+    margin:auto 1rem auto 1rem;
 }
 
 .ServicesImg4{
@@ -50,6 +52,8 @@
     padding: 1.8rem;
     cursor: pointer;
     border-radius: 0.3rem;
+    margin:auto 1rem auto 1rem;
+
 }
 
 .ServicesImg1:hover{

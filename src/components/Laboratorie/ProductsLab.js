@@ -14,7 +14,7 @@ const ProductsLab = ({laboratorie}) => {
             {/* {laboratorie.ID_CODBAR? <img src={`img/${laboratorie.ID_CODBAR}.jpg`} alt="img"></img>:<img src={`404.png`} alt="404"></img>} */}
 
             <Link 
-            to="/compraproducto" style={{textDecoration:"none"}}
+            to={`/compraproducto/${laboratorie.ID_ITEM}`} style={{textDecoration:"none"}}
             onClick={()=>{dispatch(getProductBuyAction(laboratorie))}}
             >
             {laboratorie.ID_CODBAR? 

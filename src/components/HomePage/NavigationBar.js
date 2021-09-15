@@ -1,6 +1,6 @@
 import "../../Styles/HomePageStyle/NavigationBar.css"
 import React from 'react';
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import {useSelector} from 'react-redux'
 
@@ -25,17 +25,17 @@ const NavigationBar = () => {
                     <NavLink to="/" activeClassName="selectedLink"
                     >Productos</NavLink>
                     <NavLink to="/" activeClassName="selectedLink"
-                    >Nosotros</NavLink>
+                    >Nosotros</NavLink>|
                     <NavLink to="/" activeClassName="selectedLink"
                     >Contacto</NavLink>
                 </div>
-                <div className="BuyCar">
-                    <ShoppingCartIcon className="Car"></ShoppingCartIcon>
-                    <div className="SelectedProducts">
-                        <h3>{counItem.length != 0 ? counItem.length :null}</h3>
-                        {/* <h3>{counItemLocal && counItem.length == 0? counItemLocal.length : null}</h3> */}
-                    </div>
-                </div>
+                <Link  className="BuyCar" to="/compras">
+                        <ShoppingCartIcon className="Car"></ShoppingCartIcon>
+                        <div className="SelectedProducts">
+                            <h3>{counItem.length != 0 ? counItem.length :0}</h3>
+                            {/* <h3>{counItemLocal && counItem.length == 0? counItemLocal.length : null}</h3> */}
+                        </div>
+                </Link>
             </div>
         </div>
     );

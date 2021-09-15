@@ -53,6 +53,8 @@ const App = () => {
 
 	const dispatch = useDispatch()
 
+	// const laboratorie = useSelector(store=> store.dataLaboratorie.array)
+
 
 	return (
 		<div className="Laboratories">
@@ -60,50 +62,50 @@ const App = () => {
 			<Slideshow controles={true} autoplay={true} velocidad="1500">
 				<Slide>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(AG))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(AG))} to="/laboratorio/AG" style={{textDecoration:"none"}}>
 							<img src={img1} alt="AMERCAN GENERICS"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(BCN))} to="/laboratorio" style={{textDecoration:"none"}}>							
+						<Link onClick={()=> dispatch(getLaboratorieAction(BCN))} to="/laboratorio/BNC" style={{textDecoration:"none"}}>							
 							<img src={img2} alt="BCNMedical"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(ANGL))} to="/laboratorio" style={{textDecoration:"none"}}>							
+						<Link onClick={()=> dispatch(getLaboratorieAction(ANGL))} to="/laboratorio/ANGL" style={{textDecoration:"none"}}>							
 							<img src={img3} alt="ANGLOPHARMA"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction([]))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction([]))} to="/laboratorio/GBT" style={{textDecoration:"none"}}>
 							<img src={img4} alt="GBT"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(BUSS))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(BUSS))} to="/laboratorio/BUSS" style={{textDecoration:"none"}}>
 							<img src={img5} alt="Bussie"/>
 							</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(COLM))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(COLM))} to="/laboratorio/COLMED" style={{textDecoration:"none"}}>
 							<img src={img6} alt="COLMED"/>
 							</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(ECAR))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(ECAR))} to="/laboratorio/ECAR" style={{textDecoration:"none"}}>
 							<img src={img7} alt="ecar"/>
 							</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(EXP))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(EXP))} to="/laboratorio/EXP" style={{textDecoration:"none"}}>
 							<img src={img8} alt="Expofarma"/>
 							</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction([]))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction([]))} to="/laboratorio/FARM" style={{textDecoration:"none"}}>
 							<img src={img9} alt="FARMACOOP"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(GF))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(GF))} to="/laboratorio/GF" style={{textDecoration:"none"}}>
 							<img src={img10} alt="Genfar"/>
 							</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(JGB))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(JGB))} to="/laboratorio/JGB" style={{textDecoration:"none"}}>
 							<img src={img11} alt="JGB"/>
 							</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(LBCO))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(LBCO))} to="/laboratorio/LBCO" style={{textDecoration:"none"}}>
 							<img src={img12} alt="LABINCO"/>
 							</Link>
 					</div>
@@ -111,47 +113,47 @@ const App = () => {
 
 				<Slide>
 				<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(LBCO))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(LBCO))} to="/laboratorio/LBCO" style={{textDecoration:"none"}}>
 							<img src={img13} alt="Lafrancol"/>
 							</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(MEMP))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(MEMP))} to="/laboratorio/MEMP" style={{textDecoration:"none"}}>
 							<img src={img14} alt="MEMPHIS"/>
 							</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(PZ))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(PZ))} to="/laboratorio/PZ" style={{textDecoration:"none"}}>
 							<img src={img15} alt="Pfizer"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(PROF))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(PROF))} to="/laboratorio/PROF" style={{textDecoration:"none"}}>
 							<img src={img16} alt="Profamilia"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(LPRF))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(LPRF))} to="/laboratorio/LPRF" style={{textDecoration:"none"}}>
 							<img src={img17} alt="laproff"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(LPRF))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction([]))} to="/laboratorio/MK" style={{textDecoration:"none"}}>
 							<img src={img18} alt="Tecnoquimicas"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(VITA))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(VITA))} to="/laboratorio/VITA" style={{textDecoration:"none"}}>
 							<img src={img19} alt="Vitalis"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(LG))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(LG))} to="/laboratorio/LG" style={{textDecoration:"none"}}>
 							<img src={img20} alt="LG Pharma"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(BIOQ))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(BIOQ))} to="/laboratorio/BIOQ" style={{textDecoration:"none"}}>
 							<img src={img21} alt="BIQUIFAR"/>
 						</Link>
-						<Link onClick={()=> dispatch(getLaboratorieAction(PROC))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(PROC))} to="/laboratorio/PROC" style={{textDecoration:"none"}}>
 							<img src={img22} alt="PROCAPS"/>
 						</Link>
 					</div>
 					<div>
-						<Link onClick={()=> dispatch(getLaboratorieAction(BUSS))} to="/laboratorio" style={{textDecoration:"none"}}>
+						<Link onClick={()=> dispatch(getLaboratorieAction(BUSS))} to="/laboratorio/BUSS" style={{textDecoration:"none"}}>
 							<img src={img5} alt="Bussie"/>
 						</Link>
 						<Link to="/laboratorio" style={{textDecoration:"none"}}>

@@ -55,6 +55,7 @@
     height: 80%;
     margin: auto;
     align-items: center;
+    color: white;
 }
 
 .SelectedProducts{
@@ -62,6 +63,7 @@
     width: 2.5rem;
     height: 2.5rem;
     background-color: red;
+    color: white;
     border-radius: 50%;
     top: 10%;
     left: 55%;
